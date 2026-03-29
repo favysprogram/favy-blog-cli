@@ -1,0 +1,2 @@
+# favy-blog-cli
+blog
